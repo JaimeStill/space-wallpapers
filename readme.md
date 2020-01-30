@@ -2,24 +2,6 @@
 
 This is a project I've undertaken as a hobby to gain a better understanding of astronomy.
 
-## `eso0650a`
-
-### Portrait of a Dramatic Stellar Crib
-
-[![eso0650a](./eso-eso0650a/thumb.png)](./eso-eso0650a)  
-
-[Source](https://www.eso.org/public/images/eso0650a/)  
-ESO/R. Fosbury (ST-ECF)  
-
-## `eso0848a`
-
-### NGC 2264 and the Christmas Tree Cluster
-
-[![eso0848a](./eso-eso0848a/thumb.png)](./eso-eso0848a)  
-
-[Source](https://www.eso.org/public/images/eso0848a/)  
-ESO  
-
 ## `eso0907a`
 
 ### The Helix Nebula
@@ -37,24 +19,6 @@ ESO
 
 [Source](https://www.eso.org/public/images/eso0932a/)  
 ESO/S. Brunier  
-
-## `eso0934a`
-
-### A 340-million Pixel Starscape from Paranal
-
-[![eso0934a](./eso-eso0934a/thumb.png)](./eso-eso0934a)  
-
-[Source](https://www.eso.org/public/images/eso0934a/)  
-ESO/S. Guisard (https://www.eso.org/~sguisard)  
-
-## `eso0949a`
-
-### The Hidden Fires of the Flame Nebula
-
-[![eso0949a](./eso-eso0949a/thumb.png)](./eso-eso0949a)  
-
-[Source](https://www.eso.org/public/images/eso0949a/)  
-ESO/J. Emerson/VISTA/Cambridge Astronomical Survey Unit  
 
 ## `eso1119b`
 
@@ -81,16 +45,7 @@ ESO/T. Preibisch
 [![eso1242a](./eso-eso1242a/thumb.png)](./eso-eso1242a)
 
 [Source](https://www.eso.org/public/images/eso1242a/)  
-ESO/VVV Survey/D. Minniti
-
-## `eso1625a`
-
-### A Deep Infrared View of the Orion Nebula from HAWK-I
-
-[![eso1625a](./eso-eso1625a/thumb.png)](./eso-eso1625a)  
-
-[Source](https://www.eso.org/public/images/eso1625a/)  
-ESO/H. Drass et al.  
+ESO/VVV Survey/D. Minniti  
 
 ## `eso1907a`
 
@@ -118,8 +73,6 @@ ESO/J.Girard (djulik.com)
 
 [Source](https://www.eso.org/public/images/vlt-mw-potw/)  
 ESO/H.H. Heyer  
-
-
 
 ## `heic0707a`
 
