@@ -1,4 +1,4 @@
-# Space Images
+# Space Wallpapers
 
 This is a project I've undertaken as a hobby to gain a better understanding of astronomy.
 
@@ -73,6 +73,33 @@ ESO/J.Girard (djulik.com)
 
 [Source](https://www.eso.org/public/images/vlt-mw-potw/)  
 ESO/H.H. Heyer  
+
+## `heic0506a`
+
+### Out of this Whirl: The Whirlpool Galaxy (M51) and Companion Galaxy
+
+[![heic0506a](./hst-heic0506a/thumb.png)](./hst-heic0506a)  
+
+[Source](https://www.spacetelescope.org/images/heic0506a/)  
+NASA/ESA/S. Beckwith (STScI)/The Hubble Heritage Team (STScI/AURA)  
+
+## `heic0506b`
+
+### The Eagle has Risen: Stellar Spire in the Eagle Nebula
+
+[![heic0506b](./hst-heic0506b/thumb.png)](./hst-heic0506b)  
+
+[Source](https://www.spacetelescope.org/images/heic0506b/)  
+NASA/ESA/The Hubble Heritage Team (STScI/AURA)  
+
+## `heic0515a`
+
+### Most Detailed Image of the Crab Nebula
+
+[![heic0515a](./hst-heic0515a/thumb.png)](./hst-heic0515a)  
+
+[Source](https://www.spacetelescope.org/images/heic0515a/)  
+NASA/ESA/Allison Loll/Jeff Hester (Arizona State University)/Davide De Martin (ESA/Hubble)  
 
 ## `heic0707a`
 
