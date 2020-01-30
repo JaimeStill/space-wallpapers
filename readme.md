@@ -2,6 +2,8 @@
 
 This is a project I've undertaken as a hobby to gain a better understanding of astronomy.
 
+> Thumbnails in this document show the original aspect ratio.
+
 ## `eso0907a`
 
 ### The Helix Nebula
@@ -101,6 +103,24 @@ NASA/ESA/The Hubble Heritage Team (STScI/AURA)
 [Source](https://www.spacetelescope.org/images/heic0515a/)  
 NASA/ESA/Allison Loll/Jeff Hester (Arizona State University)/Davide De Martin (ESA/Hubble)  
 
+## `heic0602a`
+
+### Largest Ever Galaxy Portrait - Pinwheel Galaxy
+
+[![heic0602a](./hst-heic0602a/thumb.png)](./hst-heic0602a)  
+
+[Source](https://www.spacetelescope.org/images/heic0602a/)  
+NASA/ESA/K.D. Kunts (GSFC)/F. Bresolin (University of Hawaii)/J. Trauger (JPL), J. Mould (NAOA)/Y.H. Chu (University of Illinois, Urbana)/Davide De Martin (ESA/Hubble)/Canada-France-Hawaii Telescoe/J.C. Cuillandre/Coelum/George Jacoby/Bruce Bohannan/Mark Hanna/NOAO/AURA/NSF    
+
+## `heic0604a`
+
+### The Magnificent Starburst Galaxy Messier 82
+
+[![heic0604a](./hst-heic0604a/thumb.png)](./hst-heic0604a)  
+
+[Source](https://www.spacetelescope.org/images/heic0604a/)  
+NASA/ESA/The Hubble Heritage Team (STScI/AURA)/J. Gallagher (University of Wisconsin)/M. Mountain (STScI)/P. Puxley (NSF)  
+
 ## `heic0707a`
 
 ### Star Birth in the Extreme
@@ -108,7 +128,43 @@ NASA/ESA/Allison Loll/Jeff Hester (Arizona State University)/Davide De Martin (E
 [![heic0707a](./hst-heic0707a/thumb.png)](./hst-heic0707a)
 
 [Source](https://www.spacetelescope.org/images/heic0707a/)  
-NASA/ESA/N. Smith (U.C. Berkeley)/Hubble Heritage Team (STScI/AURA)
+NASA/ESA/N. Smith (U.C. Berkeley)/Hubble Heritage Team (STScI/AURA)  
+
+## `heic0910e`
+
+### WFC3 Visible Image of the Carina Nebula
+
+[![heic0910e](./hst-heic0910e/thumb.png)](./hst-heic0910e)  
+
+[Source](https://www.spacetelescope.org/images/heic0910e/)  
+NASA/ESA/Hubble SM4 ERO Team  
+
+## `heic1104a`
+
+### Flocculent Spiral NGC 2841
+
+[![heic1104a](./hst-heic1104a/thumb.png)](./hst-heic1104a)  
+
+[Source](https://www.spacetelescope.org/images/heic1104a/)  
+NASA/ESA/The Hubble Heritage Team (STScI/AURA)/M. Crockett and S. Kaviraj (Oxford University, UK)/R. O'Connell (University of Virginia)/B. Whitmore (STScI)/WFC3 Scientific Oversight Comittee  
+
+## `heic1110a`
+
+### Spectacular Hubble View of Centaurus A
+
+[![heic1110a](./hst-heic1110a/thumb.png)](./hst-heic1110a)  
+
+[Source](https://www.spacetelescope.org/images/heic1110a/)  
+NASA/ESA/Hubble Heritage (STScI/AURA)/Hubble Collaboration/R. O'Connell (University of Virginia)/WFC3 Scientific Oversight Committee  
+
+## `heic1302a`
+
+### Hubble View of Messier 106
+
+[![heic1302a](./hst-heic1302a/thumb.png)](./hst-heic1302a)  
+
+[Source](https://www.spacetelescope.org/images/heic1302a/)  
+NASA/ESA/The Hubble Heritage Team (STScI/AURA)/R. Gendler/J. GaBany  
 
 ## `heic1501a`
 
@@ -117,7 +173,16 @@ NASA/ESA/N. Smith (U.C. Berkeley)/Hubble Heritage Team (STScI/AURA)
 [![heic1501a](./hst-heic1501a/thumb.png)](./hst-heic1501a)
 
 [Source](https://www.spacetelescope.org/images/heic1501a/)  
-NASA/ESA/Hubble/Hubble Heritage Team
+NASA/ESA/Hubble/Hubble Heritage Team  
+
+## `heic1502a`
+
+### Sharpest Ever View of the Andromeda Galaxy
+
+[![heic1502a](./hst-heic1502a/thumb.png)](./hst-heic1502a)  
+
+[Source](https://www.spacetelescope.org/images/heic1502a/)  
+NASA/ESA/J. Dalcanton (University of Washington)/B. F. Williams (University of Washington)/L. C. Johnson (University of Washington)/The PHAT Team/R. Gendler    
 
 ## `heic1509a`
 
@@ -126,7 +191,16 @@ NASA/ESA/Hubble/Hubble Heritage Team
 [![heic1509a](./hst-heic1509a/thumb.png)](./hst-heic1509a)
 
 [Source](https://www.spacetelescope.org/images/heic1509a/)  
-NASA/ESA/Hubble Heritage Team (STScI/AURA)/A. Nota (ESA/STScI)/Westerlund 2 Science Team
+NASA/ESA/Hubble Heritage Team (STScI/AURA)/A. Nota (ESA/STScI)/Westerlund 2 Science Team  
+
+## `heic1520a`
+
+### Revisiting the Veil Nebula
+
+[![heic1520a](./hst-heic1520a/thumb.png)](./hst-heic1520a)  
+
+[Source](https://www.spacetelescope.org/images/heic1520a/)  
+NASA/ESA/Hubble Heritage Team  
 
 ## `heic1608a`
 
@@ -135,7 +209,25 @@ NASA/ESA/Hubble Heritage Team (STScI/AURA)/A. Nota (ESA/STScI)/Westerlund 2 Scie
 [![heic1608a](./hst-heic1608a/thumb.png)](./hst-heic1608a)
 
 [Source](https://www.spacetelescope.org/images/heic1608a/)  
-NASA/ESA/Hubble Heritage Team
+NASA/ESA/Hubble Heritage Team  
+
+## `heic1712a`
+
+### NGC 1512 and NGC 1510
+
+[![heic1712a](./hst-heic1712a/thumb.png)](./hst-heic1712a)  
+
+[Source](https://www.spacetelescope.org/images/heic1712a/)  
+NASA/ESA/Hubble  
+
+## `heic1716a`
+
+### Result of a Galactic Crash - NGC 4490
+
+[![heic1716a](./hst-heic1716a/thumb.png)](./hst-heic1716a)  
+
+[Source](https://www.spacetelescope.org/images/potw1940a/)  
+NASA/ESA/Hubble/D. Calzetti (UMass)/The LEGUS Team/J. Maund (University of Sheffield)/R. Chandar (University of Toledo)  
 
 ## `heic1808a`
 
@@ -144,7 +236,16 @@ NASA/ESA/Hubble Heritage Team
 [![heic1808a](./hst-heic1808a/thumb.png)](./hst-heic1808a)
 
 [Source](https://www.spacetelescope.org/images/heic1808a/)  
-NASA/ESA/STScI
+NASA/ESA/STScI  
+
+## `heic1811a`
+
+### Peculiar Galaxy NGC 3256
+
+[![heic1811a](./hst-heic1811a/thumb.png)](./hst-heic1811a)  
+
+[Source](https://www.spacetelescope.org/images/heic1811a/)  
+NASA/ESA/Hubble  
 
 ## `heic2002a`
 
@@ -162,7 +263,16 @@ NASA/ESA/B. Holwerda (University of Louisville)
 [![heic2002b](./hst-heic2002b/thumb.png)](./hst-heic2002b)
 
 [Source](https://www.spacetelescope.org/images/heic2002b/)  
-ESA/Digitized Sky Survey 2/Davide De Martin
+ESA/Digitized Sky Survey 2/Davide De Martin  
+
+## `opo0501a`
+
+### A Poster-size Image of the Beautiful Barred Spiral Galaxy NGC 1300
+
+[![opo0501a](./hst-opo0501a/thumb.png)](./hst-opo0501a)  
+
+[Source](https://www.spacetelescope.org/images/opo0501a/)  
+NASA/ESA/The Hubble Heritage Team (STScI/AURA)  
 
 ## `opo0928b`
 
@@ -171,7 +281,16 @@ ESA/Digitized Sky Survey 2/Davide De Martin
 [![opo0928b](./hst-opo0928b/thumb.png)](./hst-opo0928b)
 
 [Source](https://www.spacetelescope.org/images/opo0928b/)  
-NASA/ESA/SSC/CXC/STScI
+NASA/ESA/SSC/CXC/STScI  
+
+## `opo1438b`
+
+### Spiral Galaxy M81
+
+[![opo1438b](./hst-opo1438b/thumb.png)](./hst-opo1438b)  
+
+[Source](https://www.spacetelescope.org/images/opo1438b/)  
+NASA/ESA/A. Zezas (CfA)/A. Filippenko (UC Berkeley)/Hubble Heritage Team (STScI/AURA)/O. Fox (University of California, Berkeley)  
 
 ## `potw1411a`
 
@@ -189,7 +308,25 @@ NASA/ESA/E. Perlman (Florida Institute of Technology)/Judy Schmidt
 [![potw1805a](./hst-potw1805a/thumb.png)](./hst-potw1805a)
 
 [Source](https://www.spacetelescope.org/images/potw1805a/)  
-ESA/Hubble/NASA/D. Milisavljevic (Purdue University)
+ESA/Hubble/NASA/D. Milisavljevic (Purdue University)  
+
+## `potw1850a`
+
+### Messier 100 in the Constellation Coma Berenices
+
+[![potw1850a](./hst-potw1850a/thumb.png)](./hst-potw1850a)  
+
+[Source](https://www.spacetelescope.org/images/potw1850a/)  
+NASA/ESA  
+
+## `potw1940a`
+
+### A Spiral in Profile - NGC 3717
+
+[![potw1940a](./hst-potw1940a/thumb.png)](./hst-potw1940a)  
+
+[Source](https://www.spacetelescope.org/images/potw1940a/)  
+NASA/ESA/Hubble/D. Rosario  
 
 ## `potw2004a`
 
