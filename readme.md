@@ -2,7 +2,79 @@
 
 This is a project I've undertaken as a hobby to gain a better understanding of astronomy.
 
-## `eso1242a`  
+## `eso0650a`
+
+### Portrait of a Dramatic Stellar Crib
+
+[![eso0650a](./eso-eso0650a/thumb.png)](./eso-eso0650a)  
+
+[Source](https://www.eso.org/public/images/eso0650a/)  
+ESO/R. Fosbury (ST-ECF)  
+
+## `eso0848a`
+
+### NGC 2264 and the Christmas Tree Cluster
+
+[![eso0848a](./eso-eso0848a/thumb.png)](./eso-eso0848a)  
+
+[Source](https://www.eso.org/public/images/eso0848a/)  
+ESO  
+
+## `eso0907a`
+
+### The Helix Nebula
+
+[![eso0907a](./eso-eso0907a/thumb.png)](./eso-eso0907a)  
+
+[Source](https://www.eso.org/public/images/eso0907a/)  
+ESO  
+
+## `eso0932a`
+
+### The Milky Way Panorama
+
+[![eso0932a](./eso-eso0932a/thumb.png)](./eso-eso0932a)  
+
+[Source](https://www.eso.org/public/images/eso0932a/)  
+ESO/S. Brunier  
+
+## `eso0934a`
+
+### A 340-million Pixel Starscape from Paranal
+
+[![eso0934a](./eso-eso0934a/thumb.png)](./eso-eso0934a)  
+
+[Source](https://www.eso.org/public/images/eso0934a/)  
+ESO/S. Guisard (https://www.eso.org/~sguisard)  
+
+## `eso0949a`
+
+### The Hidden Fires of the Flame Nebula
+
+[![eso0949a](./eso-eso0949a/thumb.png)](./eso-eso0949a)  
+
+[Source](https://www.eso.org/public/images/eso0949a/)  
+ESO/J. Emerson/VISTA/Cambridge Astronomical Survey Unit  
+
+## `eso1119b`
+
+### VST Image of the Giant Blobular Cluster Omega Centauri
+
+[![eso1119b](./eso-eso1119b/thumb.png)](./eso-eso1119b)  
+
+[Source](https://www.eso.org/public/images/eso1119b/)  
+ESO/INAF-VST/OmegaCAM/A. Grado/L. Limatola/INAF-Capodimonte Observatory  
+
+## `eso1208a`
+
+### ESO's VLT Reveals the Carina Nebula's Hidden Secrets
+
+[![eso1208a](./eso-eso1208a/thumb.png)](./eso-eso1208a)  
+
+[Source](https://www.eso.org/public/images/eso1208a/)  
+ESO/T. Preibisch  
+
+## `eso1242a`
 
 ### Central Milky Way Mosaic
 
@@ -10,6 +82,44 @@ This is a project I've undertaken as a hobby to gain a better understanding of a
 
 [Source](https://www.eso.org/public/images/eso1242a/)  
 ESO/VVV Survey/D. Minniti
+
+## `eso1625a`
+
+### A Deep Infrared View of the Orion Nebula from HAWK-I
+
+[![eso1625a](./eso-eso1625a/thumb.png)](./eso-eso1625a)  
+
+[Source](https://www.eso.org/public/images/eso1625a/)  
+ESO/H. Drass et al.  
+
+## `eso1907a`
+
+### First Image of a Black Hole
+
+[![eso1907a](./eso-eso1907a/thumb.png)](./eso-eso1907a)  
+
+[Source](https://www.eso.org/public/images/eso1907a/)  
+EHT Collaboration  
+
+## `potw1226a`
+
+### Mars, 2099?
+
+[![potw1226a](./eso-potw1226a/thumb.png)](./eso-potw1226a)  
+
+[Source](https://www.eso.org/public/images/potw1226a/)  
+ESO/J.Girard (djulik.com)    
+
+## `vlt-mw-potw`
+
+### Rare 360-degree Panorama of the Southern Sky
+
+[![vlt-mw-potw](./eso-vlt-mw-potw/thumb.png)](./eso-vlt-mw-potw)  
+
+[Source](https://www.eso.org/public/images/vlt-mw-potw/)  
+ESO/H.H. Heyer  
+
+
 
 ## `heic0707a`
 
