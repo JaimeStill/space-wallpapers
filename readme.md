@@ -335,4 +335,13 @@ NASA/ESA/Hubble/D. Rosario
 [![potw2004a](./hst-potw2004a/thumb.png)](./hst-potw2004a)
 
 [Source](https://www.spacetelescope.org/images/potw2004a/)  
-ESA/Hubble/NASA/A. Riess et al.
+ESA/Hubble/NASA/A. Riess et al.  
+
+## `pia13241`
+
+### The Invisible Dragon
+
+[![pia13241](./sst-pia13241/thumb.png)](./sst-pia13241)  
+
+[Source](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA13241)  
+NASA/JPL-Caltech  
